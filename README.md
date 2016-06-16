@@ -11,7 +11,9 @@ MathJax.Hub.Config({
 
 I am following the tutorial hello world, I have created a branch
 
-$$\alpha$$
+$$
+10^2
+$$
 
 Isotope    | Spin    | Natural Abundance   | Gyromagnetic Ratio (Hz/G / rad/T/s ($\times$10$^7$) )
 ---------- | :-----: | :-----------------: | :------------------------:
